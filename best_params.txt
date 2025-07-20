@@ -1,0 +1,10 @@
+{
+    "n_hidden1": 152,
+    "n_hidden2": 33,
+    "dropout1": 0.2710900769563948,
+    "dropout2": 0.410955961932797,
+    "lr": 0.0006003266011715666,
+    "n_epochs": 792,
+    "activation": "elu",
+    "use_weight_decay": false
+}
