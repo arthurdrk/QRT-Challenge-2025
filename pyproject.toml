@@ -1,10 +1,11 @@
 [project]
 name = "qrt-challenge-2025"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0"
+description = "QRT Data Challenge 2025 utilities and CLI"
 requires-python = ">=3.13"
 dependencies = [
     "graphviz>=0.21",
+    "ipywidgets>=8.1.7",
     "joblib>=1.5.2",
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.6",
@@ -25,4 +26,10 @@ dependencies = [
     "torchtuples>=0.2.2",
     "tqdm>=4.67.1",
     "xgboost>=3.0.5",
+    "typer[all]>=0.12.5",
+    "rich>=13.9.4",
+    "importlib-metadata>=8.7.0",
 ]
+
+[project.scripts]
+qrtdc = "qrtdc.main:app"
