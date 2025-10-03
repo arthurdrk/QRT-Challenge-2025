@@ -7,3 +7,4 @@
 | CoxNet Tuned                          |            |           | 0.7109             | 0.7088            |                 |
 | IPCRidge                              |            |           | 0.3005             | 0.3047            |                 |
 | EnsembleSelection(CoxPH, CoxNet, XGB) | 0.7648     | 0.7101    | 0.7588             | 0.7101            | 0.7330          |
+| MTLR                                  |                        | 0.7243             | 0.7118
