@@ -24,6 +24,7 @@ from qrtdc.cli._console import Console
 
 app = typer.Typer(help="Preprocessing pipeline that mirrors the exploration notebook.")
 
+#TODO METTRE A JOUR AVEC LE NOUVEAU CODE DU NOTEBOOK
 
 @dataclass
 class Paths:
