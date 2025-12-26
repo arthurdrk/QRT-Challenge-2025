@@ -1,0 +1,31 @@
+Tableau markdown pour LLM :
+
+| feature            |   importance |
+|:-------------------|-------------:|
+| HB                 |   0.377889   |
+| PLT                |   0.309606   |
+| BM_BLAST           |   0.302452   |
+| nb_genes           |   0.29807    |
+| vaf_median         |   0.227149   |
+| vaf_mean           |   0.199448   |
+| nb_high_risk_genes |   0.181015   |
+| nb_chromosomes     |   0.163731   |
+| sex_XX             |   0.154031   |
+| has_TP53           |   0.132366   |
+| nb_mutations       |   0.116961   |
+| depth_mean         |   0.106056   |
+| depth_min          |   0.0807436  |
+| ANC                |   0.0768705  |
+| sex_XY             |   0.0754467  |
+| nb_high_vaf        |   0.0617925  |
+| vaf_max            |   0.0605787  |
+| nb_bad_effects     |   0.0585936  |
+| risk_score         |   0.0500447  |
+| has_FLT3           |   0.0327786  |
+| WBC                |   0.0246241  |
+| total_chromosomes  |   0.0231008  |
+| sex_Unknown        |   0.0123398  |
+| nb_good_genes      |   0.00951    |
+| has_NPM1           |   0.00635941 |
+| MONOCYTES          |   0.00562534 |
+| is_normal          |   0          |

@@ -5,14 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2822c142-2a23-4c39-9a33-2720c981f705" name="Changes" comment="correction train_pivot">
-      <change beforePath="$PROJECT_DIR$/data/eval_enhanced.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/eval_enhanced.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train_enhanced.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_enhanced.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/old/MTLR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/MTLR.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/best_params_mtlr.json" beforeDir="false" afterPath="$PROJECT_DIR$/old/best_params_mtlr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Preprocessing.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/old/exploration_arthur.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/exploration_arthur.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exploration/ensemble.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/exploration/ensemble.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exploration/perprocessing_molecular.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/exploration/perprocessing_molecular.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/moyenneur.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/moyenneur.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/7542_moy_7512_7497.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/7548_moy_7525_7497.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_741.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_7445.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_7497.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_7512.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_7525.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/MTLR_moy_ensemble.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/cox-time-notworking.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/submissions/param_7512.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/test survhive.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exploration/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/exploration/preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/0.7623.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/mtlr.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submissions/submission_xgb_aft_tuned.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +104,10 @@
       <workItem from="1764057545229" duration="2455000" />
       <workItem from="1764421878105" duration="1837000" />
       <workItem from="1764667304774" duration="2976000" />
+      <workItem from="1765274582074" duration="594000" />
+      <workItem from="1765354359554" duration="614000" />
+      <workItem from="1765810914565" duration="109000" />
+      <workItem from="1765958995421" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="exploration xgb aft">
       <option name="closed" value="true" />
@@ -130,16 +146,5 @@
     <MESSAGE value="exploration xgb aft" />
     <MESSAGE value="correction train_pivot" />
     <option name="LAST_COMMIT_MESSAGE" value="correction train_pivot" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/old/Preprocessing.ipynb</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
