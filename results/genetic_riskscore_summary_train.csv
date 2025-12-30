@@ -1,0 +1,8 @@
+,GeneticRiskScore
+n_patients,3173.0
+n_events,1600.0
+c_index_apparent,0.6999961825434319
+c_index_boot_mean,0.6999561475791463
+c_index_boot_ci_lower,0.6862362463165544
+c_index_boot_ci_upper,0.7133602726691989
+AUC_0.72y,0.7328284260797949
